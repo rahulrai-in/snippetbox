@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="build + run" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="snippetbox" />
+    <working_directory value="$PROJECT_DIR$/cmd/web" />
+    <parameters value="-addr=:9999" />
+    <kind value="DIRECTORY" />
+    <filePath value="$PROJECT_DIR$/cmd/web/main.go" />
+    <package value="rahulrai.in/snippetbox" />
+    <directory value="$PROJECT_DIR$/cmd/web" />
+    <method v="2" />
+  </configuration>
+</component>
